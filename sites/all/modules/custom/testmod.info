@@ -8,4 +8,5 @@ core = 7.x
 files[] = create_module.admin.inc
 files[] = create_module.module
 
+dependencies[] = node
 
