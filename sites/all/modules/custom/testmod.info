@@ -1,0 +1,11 @@
+; $Id$
+name = Test Module
+description = beschrijving test modules
+package = Development
+version = "6.x-1.2"
+core = 7.x
+
+files[] = create_module.admin.inc
+files[] = create_module.module
+
+
