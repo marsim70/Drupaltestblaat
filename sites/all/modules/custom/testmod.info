@@ -1,6 +1,6 @@
 ; $Id$
 name = Test Module
-description = beschrijving test modules
+description = AANGEPASTE beschrijving test modules
 package = Development
 version = "6.x-1.2"
 core = 7.x
