@@ -1,0 +1,159 @@
+/**
+ * @file
+ * Block Styling
+ */
+
+
+.block /* Block wrapper */ {
+	float:left;
+}
+
+.block.first /* The first block in the region */ {
+}
+
+.block.last /* The last block in the region */ {
+}
+
+.block.odd /* Zebra striping for each block in the region */ {
+}
+
+.block.even /* Zebra striping for each block in the region */ {
+}
+
+h2.block-title /* Block title */ {
+}
+
+.block .content /* Block's content wrapper */ {
+}
+
+#block-aggregator-category-1 /* Block for the latest news items in the first category */ {
+}
+
+#block-aggregator-feed-1 /* Block for the latest news items in the first feed */ {
+}
+
+#block-block-1 /* First block created with "Add block" link */ {
+}
+
+#block-blog-recent /* "Recent blog posts" block */ {
+}
+
+#block-book-navigation /* "Book navigation" block for the current book's table of contents */ {
+}
+
+#block-comment-recent /* "Recent comments" block */ {
+}
+
+#block-forum-active /* "Active forum topics" block */ {
+}
+
+#block-forum-new /* "New forum topics" block */ {
+}
+
+#block-locale-language /* Language switcher block */ {
+}
+
+#block-menu-menu-NAME /* Custom menu block  */ {
+}
+
+#block-node-recent /* "Recent content" block */ {
+}
+
+#block-node-syndicate /* "Syndicate" block for primary RSS feed; see also page.css's .feed-icon */ {
+}
+
+#block-poll-recent /* "Most recent poll" block */ {
+}
+
+#block-profile-author-information /* "Author information" block for the profile of the page's author */ {
+}
+
+#block-search-form /* "Search form" block */ {
+}
+
+#block-shortcut-shortcuts /* "Shortcuts" block */ {
+}
+
+#block-statistics-popular /* "Popular content" block */ {
+}
+
+#block-system-main-menu /* "Main menu" block */ {
+}
+
+#block-system-management /* "Management" block for Drupal management menu */ {
+}
+
+#block-system-navigation /* "Navigation" block for Drupal navigation menu */ {
+}
+
+#block-system-user-menu /* "User menu" block for Drupal user menu */ {
+}
+
+#block-system-help /* "System help" block */ {
+}
+
+#block-system-main /* "Main page content" block */ {
+}
+
+#block-system-powered-by /* "Powered by Drupal" block */ {
+}
+
+#block-user-login /* "User login form" block */ {
+}
+
+#block-user-new /* "Who's new" block for a list of the newest users */ {
+}
+
+#block-user-online  /* "Who's online" block for a list of the online users */ {
+
+}
+.ballonen-wrap {
+	width:1000px;
+}
+.ballonen-wrap h2 {
+	font-size: 2em;
+}
+.ballonen-wrap h2,p{
+	margin:0;
+}
+.ballonen-wrap li {
+	display:block;
+	float:left;
+	color:white;
+	text-align:center;
+	position:relative;
+}
+.ballonen-wrap li.views-row-1 {
+	background: url("../images/ballon_paars.png");
+	width:268px;
+	height:267px;
+	margin-top:30px;
+}
+.ballonen-wrap li.views-row-2 {
+	background: url("../images/ballon_blauw.png");
+	width:197px;
+	height:203px;
+	margin-top:50px;
+}
+.ballonen-wrap li.views-row-3 {
+	background: url("../images/ballon_groen.png");
+	width:249px;
+	height:247px;
+}
+.ballonen-wrap li.views-row-4 {
+	background: url("../images/ballon_rood.png");
+	width:250px;
+	height:249px;
+}
+.ballonen-wrap li.views-row-1 h2{
+	margin:90px 0 0 0;
+}
+.ballonen-wrap li.views-row-2 h2{
+	margin:55px 0 0 0;
+}
+.ballonen-wrap li.views-row-3 h2{
+	margin:65px 0 0 0;
+}
+.ballonen-wrap li.views-row-4 h2{
+	margin:70px 0 0 0;
+}
